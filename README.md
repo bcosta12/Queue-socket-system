@@ -13,6 +13,6 @@ Code to Distributed Systems that control 4 works, 2 clients and 2 servers. The C
 
  - The connection between the Client and the Server is TCP socket.
 
-You can see the Architectural scheme below
+You can see the Architectural scheme below.
 
 ![alt text](Figures/Architecturalscheme.png)
