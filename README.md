@@ -16,3 +16,5 @@ Code to Distributed Systems that control 4 works, 2 clients and 2 servers. The C
 You can see the Architectural scheme below.
 
 ![alt text](Figures/Architecturalscheme.png)
+
+#PS: Feel free to fork, comment, ask, criticism or suggest something to improve this project.
